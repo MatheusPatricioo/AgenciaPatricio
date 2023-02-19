@@ -1,3 +1,3 @@
 # AgenciaPatricio
- praticando css e html no layout de uma pag web; 
+ praticando css e html;  
 Projeto final do curso de HTML e CSS;
