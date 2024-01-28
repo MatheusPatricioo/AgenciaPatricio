@@ -31,7 +31,7 @@ Este projeto é um exemplo de site responsivo, o que significa que foi projetado
 
 ## Captura de Tela
 
-![Captura de Tela do Site Responsivo](screenshots/screenshot.png)
+![Captura de Tela do Site Responsivo](img/imagemm.png)
 
 ## Contribuições
 
