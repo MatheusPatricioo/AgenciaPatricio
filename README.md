@@ -30,6 +30,7 @@ Este projeto é um exemplo de site responsivo, o que significa que foi projetado
 4. Navegue pelo site para explorar seu conteúdo e funcionalidades em diferentes dispositivos.
 
 ## Captura de Tela
+Esse print é parte da front page.
 
 ![Captura de Tela do Site Responsivo](img/imagemm.png)
 
